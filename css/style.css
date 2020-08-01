@@ -11,9 +11,6 @@ body {
   left: 0;
   bottom: 0;
   background: #333;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .sphere {
